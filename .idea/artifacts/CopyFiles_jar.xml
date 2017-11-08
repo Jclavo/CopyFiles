@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CopyFiles:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CopyFiles_jar</output-path>
+    <root id="archive" name="CopyFiles.jar">
+      <element id="module-output" name="CopyFiles" />
+    </root>
+  </artifact>
+</component>
